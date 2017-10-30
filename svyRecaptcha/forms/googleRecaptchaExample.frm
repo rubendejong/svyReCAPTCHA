@@ -107,6 +107,7 @@ uuid:"D0ACE3AE-A605-4B43-AD76-F52173FD8348"
 }
 ],
 name:"googleRecaptchaExample",
+navigatorID:"-1",
 onLoadMethodID:"0CA003A5-3DAF-461B-87B0-04FF44E6ECE3",
 onShowMethodID:"AAD75C43-6FAD-49C2-AFA2-43E62593E518",
 showInMenu:true,
