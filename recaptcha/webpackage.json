@@ -1,5 +1,5 @@
 {
-    "name":"svyReCAPTCHA",
+    "name":"recaptcha",
     "displayName":"svyReCAPTCHA",
     "packageType": "Web-Component",
     "icon": "https://raw.githubusercontent.com/Servoy/svyReCAPTCHA/master/recaptcha/googleRecaptcha/icon.png",
