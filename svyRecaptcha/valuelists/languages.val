@@ -1,0 +1,10 @@
+addEmptyValue:1,
+customValues:"English|en\r\
+Dutch|nl\r\
+French|fr\r\
+Spanish|es\r\
+German|de\r\
+Italian|it",
+name:"languages",
+typeid:34,
+uuid:"FD4277F6-93A1-4B98-B454-1961255C9A76"
