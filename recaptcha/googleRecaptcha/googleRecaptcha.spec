@@ -11,7 +11,8 @@
 			"name": "api.js",
 			"version": "1.0",
 			"url": "https://www.google.com/recaptcha/api.js?render=explicit",
-			"mimetype": "text/javascript"
+			"mimetype": "text/javascript",
+			"group":false
 		}
 	],
 
