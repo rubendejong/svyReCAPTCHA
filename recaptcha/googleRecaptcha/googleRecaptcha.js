@@ -98,6 +98,6 @@ angular.module('recaptchaGoogleRecaptcha',['servoy']).directive('recaptchaGoogle
 				$scope.svyServoyapi.apply("isRendered");
 			}
 		},
-		templateUrl: "recaptcha/googleRecaptcha/googleReCaptcha.html"
+		templateUrl: "recaptcha/googleRecaptcha/googleRecaptcha.html"
 	};
 }]);
