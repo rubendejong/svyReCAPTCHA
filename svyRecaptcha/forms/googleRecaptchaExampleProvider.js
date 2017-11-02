@@ -48,3 +48,35 @@ function getSampleCode() {
 	return printMethodCode(forms.googleRecaptchaExample.onLoad)
 		.concat(printMethodCode(forms.googleRecaptchaExample.validateResponse))
 }
+
+/**
+*
+* @return {String} Website URL
+*
+* @properties={typeid:24,uuid:"91436D45-90F8-43B5-BA42-0D8B9D94A3B6"}
+*/
+function getWebSiteURL() {
+	return 'https://github.com/Servoy/svyReCAPTCHA';
+}
+
+/**
+*
+* @return {String} Additioanl info (wiki markdown supported)
+*
+* @properties={typeid:24,uuid:"3502A05C-080C-4D35-A13A-291AB6EBF70E"}
+*/
+function getMoreInfo() {
+//	var url = 'https://raw.githubusercontent.com/Servoy/aggridcomponents/master/README.md';
+//	return plugins.http.getPageData(url);
+	return 'A Servoy Web Component which allow you to use the Google reCAPTCHA to validate the user is not a bot.'
+}
+
+/**
+*
+* @return {String} Download URL
+*
+* @properties={typeid:24,uuid:"A14D4BEB-A083-46D3-958D-B8CE56ADECF6"}
+*/
+function getDownloadURL() {
+	return 'https://github.com/Servoy/svyReCAPTCHA/releases/download/v1.0.0/svyRecaptcha.servoy';
+}
