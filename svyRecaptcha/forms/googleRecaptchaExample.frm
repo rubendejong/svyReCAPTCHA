@@ -36,7 +36,7 @@ anchors:11,
 location:"30,10",
 size:"590,30",
 styleClass:"label_header_2",
-text:"Web Notification",
+text:"Google reCAPTCHA",
 typeid:7,
 uuid:"49024A4E-3E4A-4076-8EEB-EC87621229B5"
 },
