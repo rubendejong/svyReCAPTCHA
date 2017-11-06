@@ -25,7 +25,7 @@ function getDescription() {
 * @properties={typeid:24,uuid:"F929788A-AF40-45D9-8FCA-830913DE8A85"}
 */
 function getParent() {
-	return forms.ngServiceSamples;
+	return forms.specializedSamples;
 }
 
 /**
