@@ -47,9 +47,9 @@ $scope.api.validateResponse = function(secretKey) {
 	var reader = new java.io.BufferedReader(new java.io.InputStreamReader(connection.getInputStream()));
 	var line = null;
 	/** @type {String} */
-	var content = new java.lang.StringBuffer();
+	var content = new java.lang.String();
 	while ( (line = reader.readLine()) != null) {
-		content.append(line);
+		content = content + line;
 	}
 	reader.close();
 
